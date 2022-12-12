@@ -25,7 +25,7 @@ these changes are all
 introduced on branch `rshi/feature1`
 i am going to 
 make a 
-tpo 
+typo 
 here 
 
 ## How do I get started?
