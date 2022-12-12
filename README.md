@@ -20,6 +20,14 @@ A `changeset` is an intent to release a set of packages at particular [semver bu
 
 The **@changesets/cli** package allows you to write `changeset` files as you make changes, then combine any number of changesets into a release, that flattens the bump-types into a single release per package, handles internal dependencies in a multi-package-repository, and updates changelogs, as well as release all updated packages from a mono-repository with one command.
 
+## Adding a new section to the README
+these changes are all 
+introduced on branch `rshi/feature1`
+i am going to 
+make a 
+typo 
+here 
+
 ## How do I get started?
 
 If you just want to jump in to using changesets, the [Intro to using changesets](./docs/intro-to-using-changesets.md) and [@changesets/cli](./packages/cli/README.md) docs are where you should head.
